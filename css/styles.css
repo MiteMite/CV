@@ -1,0 +1,13 @@
+body{
+  background-image: url("stars.gif");
+  background-color: black;
+  background-size: cover;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+  font-family: "Comic Sans MS",cursive,sans-serif;
+  color: yellow;
+}
